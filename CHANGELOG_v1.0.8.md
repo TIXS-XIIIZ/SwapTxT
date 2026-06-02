@@ -38,5 +38,5 @@
 ### 2. Auto-Update Setup Screen (UX Improvement)
 - **Launcher Redesign**: Replaced the basic PowerShell message boxes with a branded, custom Windows Forms UI.
 - **Visual Feedback**: When checking for or installing .NET 8.0, users now see a clean "Setting Up" screen with a marquee progress bar instead of an unresponsive pause, preventing the perception of a launch failure.
-- Output installer is now named `SwapTxT_Install.zip` / `SwapTxT_Install_v1.0.8.exe` for clarity.
+- Output installer is now named `SwapTxT.zip` / `SwapTxT_Install_v1.0.8.exe` for clarity.
 - Added `installer.iss` Inno Setup script to the project for repeatable, one-click installer creation.
